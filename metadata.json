@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI",
+  "description": "Intelligent Threat Detection. AI-Powered Security Operations Center & SIEM Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
